@@ -1,0 +1,7 @@
+{
+  "name": "CallApi01",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
